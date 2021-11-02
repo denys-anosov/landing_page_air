@@ -16,4 +16,4 @@ Page mockup can be found [here](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuP
 
 # Demo
 
-Page demo was deployed to Github pages and can be found [here](https://denys-anosov.github.io/layout_air/).
+Page demo was deployed to Github pages and can be found [here](https://denys-anosov.github.io/landing_page_air/).
